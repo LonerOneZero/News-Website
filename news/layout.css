@@ -1,0 +1,401 @@
+body {
+    position: relative;
+    width: 1920px;
+    height: 2186px;
+    background: #FFFFFF;
+}
+
+.bodyWorksNews {
+    position: relative;
+    width: 1920px;
+    height: 1000px;
+    background: #FFFFFF;
+}
+
+/* logo */
+
+.logo {
+    position: absolute;
+
+    width: 390px;
+    height: 74px;
+
+    margin-top: 40px;
+    margin-left: 200px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo_text {
+
+    position: absolute;
+
+    width: 273px;
+    height: 74px;
+    left: 117.12px;
+    top: -0.07px;
+
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 132%;
+
+    letter-spacing: 0.125em;
+    text-transform: uppercase;
+    color: #2C145E;
+}
+
+/*ban*/
+
+.ban_image {
+    position: absolute;
+    width: 1920px;
+    height: 646px;
+    top: 156.88px;
+    overflow: hidden;
+}
+
+.ban {
+    position: absolute;
+
+    width: 1265px;
+    height: 171.33px;
+    top: 375px;
+    left: 195px;
+}
+
+.ban_title {
+    position: absolute;
+    width: 1265px;
+    height: 90px;
+    top: 375px;
+    left: 195px;
+    font: Open Sans;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 89.6px;
+    color: #FFFFFF;
+}
+}
+
+.banTitleLink {
+    font: Open Sans;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 89.6px;
+    color: #FFFFFF;
+}
+
+.ban_announce {
+    position: absolute;
+    width: 1264.71px;
+    height: 51px;
+    top: 495.33px;
+    left: 195.29px;
+
+    font: Open Sans;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 51.2px;
+    color: #FFFFFF;
+   
+}
+
+/* news */
+
+.newsText {
+    position: absolute;
+    width: 1520px;
+    height: 90px;
+    top: 857.2px;
+    left: 200px;
+    font: Open Sans;
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 89.6px;
+    color: #000000;
+}
+
+.newsBlock {
+    position: absolute;
+    width: 739px;
+    height: 333px;
+    gap: 30px;
+}
+
+.newsDate {
+    position: absolute;
+    width: 118px;
+    height: 34px;
+    border-radius: 20px;
+    padding: 6px, 18px, 6px, 18px;
+    gap: 10px;
+    background-color: #ECF2F5;
+    font: Open Sans;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21.79px;
+    text-align: center;
+    color: #6C6E7B;
+}
+
+.newsTitle {
+    position: absolute;
+    width: 739px;
+    height: 45px;
+    font: Open Sans;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 43.58px;
+    color: #000000;
+}
+
+.newsAnnounce {
+    position:absolute;
+    width: 739px; 
+    height: 110px;
+ 
+    font: Open Sans;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    color: #000000;
+}
+
+.newsButton {
+    position: absolute;
+    width: 214px;
+    height: 54px;
+    border-radius: 50px;
+    border: 2px solid #841844;
+    padding: 16px, 40px, 16px, 40px;
+    gap: 10px;
+    background-color: #FFFFFF;
+    font: Open Sans;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 21.79px;
+    color: #841844;
+}
+
+.newsBlockWorks {
+    position: absolute;
+    width: 740px;
+    height: 704px;
+    top: 426px;
+    left: 200px;
+    gap: 40px;
+}
+
+.newsWorksDate {
+    position: absolute;
+    width: 118px;
+    height: 34px;
+    border-radius: 20px;
+    padding: 6px, 18px, 6px, 18px;
+    gap: 10px;
+    background-color: #ECF2F5;
+    font: Open Sans;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21.79px;
+    text-align: center;
+    color: #6C6E7B;
+}
+
+.newsWorksAnnounce {
+    position: absolute;
+    width: 739px;
+    height: 132px;
+    font: Open Sans;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 43.58px;
+    color: #000000;
+}
+
+.newsWorksContent {
+    position: absolute;
+    width: 740px;
+    height: 364px;
+    gap: 22px;
+    font: Open Sans;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+}
+
+.newsButtonHome {
+    position: absolute;
+    width: 283px;
+    height: 54px;
+    border-radius: 50px;
+    border: 2px solid #9B407A;
+    padding: 16px, 41px, 16px, 41px;
+    gap: 10px;
+    font: Open Sans;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 21.79px;
+    color: #9B407A;
+    background-color: #FFFFFF;
+}
+
+.newsWorksImg {
+    position:absolute;
+    width: 740px;
+    height: 570px;
+    top: 125.88px; 
+    left: 980px;
+}
+
+/* news hover/active */
+
+.newsTitle:hover {
+    color: #841844;
+}
+
+.newsButton:hover {
+    cursor: pointer;
+    background-color: #841844;
+    color: #FFFFFF;
+}
+
+.newsButton:active {
+ 
+    transform: translateY(3px);
+    transition: transform 0.15s;
+}
+
+.newsButtonHome:hover {
+    cursor: pointer;
+    background-color: #9B407A;
+    color: #FFFFFF;
+}
+
+.newsButtonHome:active {
+    transform: translateY(3px);
+    transition: transform 0.15s;
+}
+
+
+/* frame navigation */
+
+.frameBlock {
+    position: absolute;
+    width: 322px;
+    height: 54px;
+    top: 1869px;
+    left: 1400px;
+    gap: 16px;
+}
+
+.frameNavButton {
+    position: absolute;
+    width: 56px;
+    height: 54px;
+    border-radius: 50px;
+    border: 2px solid #841844;
+    padding: 16px, 23px, 16px, 23px;
+    gap: 10px;
+    font: Open Sans;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 21.79px;
+    text-align: center;
+    color: #841844;
+}
+
+.frameNavPointerButton {
+    position: absolute;
+    width: 106px;
+    height: 54px;
+    border-radius: 50px;
+    border: 2px solid #841844;
+    padding: 16px, 41px, 16px, 41px;
+    gap: 10px;
+    font: Open Sans;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 21.79px;
+    text-align: center;
+    color: #841844;
+    text-decoration: none;
+}
+
+.homeBlock {
+    position: absolute;
+    width: 280px;
+    height: 22px;
+    top: 229.14px;
+    left: 201px;
+}
+
+.homeTextLink {
+    font: Open Sans;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21.79px;
+    text-decoration: none;
+    color: #000000;
+}
+
+/* frame hover/active */
+
+.frameNavButton:hover {
+    cursor: pointer;
+    background-color: #841844;
+    color: #FFFFFF;
+}
+
+.frameNavPointerButton:hover {
+    cursor: pointer;
+    background-color: #841844;
+    color: #FFFFFF;
+}
+
+.frameNavButton:active {
+    transform: translateY(3px);
+    transition: transform 0.15s;
+}
+
+.frameNavPointerButton:active {
+    transform: translateY(3px);
+    transition: transform 0.15s;
+}
+
+/* Line */
+
+.logoLine {
+    position: absolute;
+    width: 1991.17px;
+    top: 156.88px;
+    left: -35.59px;
+    border: 1px solid #6C6E7B;
+}
+
+.footerLine {
+    position: absolute;
+    width: 1520px;
+    top: 2006px;
+    left: 200px;
+    border-bottom: 1px solid #6C6E7B;
+}
+
+/* footer */
+
+.footerText {
+   position:absolute;
+   width: 740px;
+   height: 32px;
+   top: 2069.59px;
+   left: 200px;
+   font: Open Sans;
+   font-weight: 400;
+   font-size: 20px;
+   line-height: 32px;
+   color: #000000;
+}
