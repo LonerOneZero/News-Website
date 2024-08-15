@@ -1,1 +1,6 @@
-News-WebSite
+![image](https://github.com/user-attachments/assets/ebe7c5a5-dc70-43d7-bd97-068121add8f5)
+![image](https://github.com/user-attachments/assets/492bba1b-69e5-4d6b-94e3-0afbda15d71c)
+![image](https://github.com/user-attachments/assets/736a89bf-9487-460a-9f85-677b92177657)
+![image](https://github.com/user-attachments/assets/f0e669af-a6ef-4087-8dbe-c801a813e373)
+![image](https://github.com/user-attachments/assets/135575e9-406f-43f7-8bf0-6f6be3a76fe5)
+![image](https://github.com/user-attachments/assets/74bc5aab-9e7d-4be4-bd85-1ebcc0c1bd3d)
